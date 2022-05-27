@@ -1,0 +1,1 @@
+This project is try to create a discord bot with using python
